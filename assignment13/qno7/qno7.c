@@ -1,3 +1,4 @@
+//WAP to find the HCF of a number
 #include<stdio.h>
 int hcf(int n1,int n2)
 {
